@@ -9,6 +9,5 @@
 
   <buildtool_depend>catkin</buildtool_depend>
 
-  <build_depend>eigen_checks</build_depend>
 </package>
 
